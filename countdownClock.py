@@ -17,7 +17,7 @@ from PIL import Image
 from rgbmatrix import graphics
 
 maxHeight = 32
-stopBuild = {2017,2,22,0,0,0}
+stopBuild = {2018,2,20,0,0,0}
 
 class displayElement:
     element   = None
